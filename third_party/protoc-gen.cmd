@@ -1,0 +1,1 @@
+protoc --go_out=. --go_opt=paths=source_relative api/proto/v1/todo-service.proto
